@@ -3,7 +3,7 @@
 ![days1](https://user-images.githubusercontent.com/89916459/147344601-261f726c-e102-4d15-b69a-590a0c7dc065.png)
 
 # About The Project
-Days was a website project. This project was built while I was learning about frontend development. It was built by HTML, CSS and JavaScript that were basic fundamentals of frontend development.In this project, I used ScrollMagic library to animate some animations. I built it to showcase and imporve my skills.
+Days was a website project. This project was built while I was learning about frontend development. It was built by HTML, CSS and JavaScript that were basic fundamentals of frontend development. In this project, I used ScrollMagic library to animate some animations. I built it to showcase and imporve my skills.
 
 # What Languages I Used
 * HTML
